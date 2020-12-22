@@ -1,0 +1,18 @@
+20th december
+    made collision detection in player.lua
+    added attack animation
+    reworked jumping to make it less buggy
+
+21st december
+    added basic end game screen
+    added ability to reset game after game over
+    added lifes
+    added camera movements by copy and pasting code I couldn't think of myself from mario distro
+    added death animation
+might add
+    power ups
+    ladders
+    enemies
+    end goal
+    points
+    reset level
