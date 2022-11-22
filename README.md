@@ -1,5 +1,5 @@
 # Overview
-This is a simple game for Harvard's CS50xs final project that I made to learn some game development. It's not much and I probably couldn't have done it without help from the communities and comparing it to the mario distribution code, but it's a start.
+This is a simple game for Harvard's CS50xs final project that I made to learn some game development. It's not much and I probably couldn't have done it without help from the communities and referencing some distribution code, but it's a start.
 ## Description
 You play as a ninja that has to run to the end of a randomly generated level. You have to avoid pits and spikes. Once you reach the end, you will replenish you lifes, get 500 points, and start a new level all over again. The goal is simply to gain as many points as possible. The game is easy, doesn't get harder, and is just a bit of silly fun.
 You can attack, but there aren't any enemies. There are a few randomly generated things like pyramids, holes and spikes (well those are the only things really) to make things just a slight bit more interesting.
